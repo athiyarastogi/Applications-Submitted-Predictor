@@ -4,7 +4,7 @@
 # Applications Submitted Predictor
 > Predict number of applications submitted based on applications created and forms downloaded.
 
-![npm package](https://img.shields.io/badge/npm%20package-v1-brightgreen.svg)
+![Python](https://img.shields.io/badge/npm%20package-v1-brightgreen.svg)
 
    ![build succeeded](https://img.shields.io/badge/build-succeeded-brightgreen.svg)
 
