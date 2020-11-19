@@ -3,6 +3,7 @@
    
 # Applications Submitted Predictor
 > Predict number of applications submitted based on applications created and forms downloaded.
+
 ![Python 3.7.4](https://img.shields.io/badge/Python-3.7.4-brightgreen.svg) ![license MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 
