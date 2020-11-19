@@ -1,5 +1,5 @@
   ![npm package](https://wecarecanada.ca/wp-content/uploads/2019/07/application-form-icon-4.png=100x20) 
-  ![](./pic/pic1_50.png =100x20)
+ <img src="https://wecarecanada.ca/wp-content/uploads/2019/07/application-form-icon-4" width="48">
  # Applications Submitted Predictor
 
 
