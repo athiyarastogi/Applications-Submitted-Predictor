@@ -1,4 +1,5 @@
-  ![npm package](https://wecarecanada.ca/wp-content/uploads/2019/07/application-form-icon-4.png) # Applications Submitted Predictor
+  ![npm package][img_4286a-350x233](https://wecarecanada.ca/wp-content/uploads/2019/07/application-form-icon-4.png) 
+  # Applications Submitted Predictor
 
 
 # Purpose
