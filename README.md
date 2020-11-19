@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
+  ![npm package](https://wecarecanada.ca/wp-content/uploads/2019/07/application-form-icon-4.png) 
 # Applications Submitted Predictor
 
 
