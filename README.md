@@ -8,7 +8,7 @@
 
    ![build succeeded](https://img.shields.io/badge/build-succeeded-brightgreen.svg)
 
-   ![Test passing](https://img.shields.io/badge/Tests-passing-brightgreen.svg)
+   ![Test passing](https://img.shields.io/badge/Python-brightgreen.svg)
 
 
 # Purpose
