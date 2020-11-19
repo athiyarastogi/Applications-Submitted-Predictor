@@ -1,6 +1,6 @@
 
    <img src="https://user-images.githubusercontent.com/47875071/99720236-76f45480-2a7b-11eb-8387-2a1dd3e9818e.png" width="50"> 
-# Applications Submitted Predictor
+   # Applications Submitted Predictor
 
 
 # Purpose
