@@ -8,8 +8,11 @@
 
 
 # Table of Contents
- Purpose 
- Analysis
+ Purpose \n Compatibility
+ 
+ Screenshots
+ 
+ Future Goals
 
 # Purpose
 
