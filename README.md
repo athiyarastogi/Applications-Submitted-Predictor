@@ -41,15 +41,15 @@ After running the program, the window pictured below is displayed.
 # Input and Output
 
 
-## Number of Applications Created
+### Number of Applications Created
 
 The Number of Applications Created widget is for inputting the number of applications created by users in total.
 
-## Number of forms Downloaded
+### Number of forms Downloaded
 
 The Number of forms Downloaded widget is for inputting the number of applications forms downloaded by the users for their inidividual applications, in total. FOrms could be downloaded multiple times for a single application. Therefore, Number of forms Downloaded could exceed the Number of Applications Created.
 
-## Predict the number of Applications Submitted
+### Predict the number of Applications Submitted
 
 The code used the above two - Number of Applications Created and Number of forms Downloaded to predict the number of Applications Submitted.
 
