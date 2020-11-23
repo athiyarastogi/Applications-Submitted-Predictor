@@ -58,13 +58,13 @@ The code used the above two - Number of Applications Created and Number of forms
 
 The code has been written keeping in mind the following assumptions
 
-   ### a)
+   #### a)
    If the Number of Applications created is 0, then the Applications submitted will be 0, regardless of the value of the intercept or the number of application forms downloaded.
    
-   ### b)
+   #### b)
    If the Number of Application forms downloaded is 0, then the predicted value for Applications Submitted automatically becomes 0.
    
-   ### c)
+   #### c)
    The predicted Number of Applications Submitted cannot exceed the Number of Applications Created.
    
    
