@@ -29,3 +29,7 @@ The following code is compatible with Python 3.6 on Windows, Mac OS, and Linux.
 
 # Screenshots
 
+ <img src="https://github.com/athiyarastogi/Applications-Submitted-Predictor/blob/main/Screen%20Shot%202020-11-22%20at%206.37.44%20PM.png"> 
+
+
+
